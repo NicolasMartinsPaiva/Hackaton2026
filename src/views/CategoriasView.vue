@@ -1,5 +1,9 @@
 <template>
-
-<h1>Categorias</h1>
-
+  <div>
+    <p>arroz</p>
+  </div>
 </template>
+
+<script>
+
+</script>

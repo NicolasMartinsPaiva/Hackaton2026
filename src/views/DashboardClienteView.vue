@@ -1,5 +1,9 @@
 <template>
-
-<h1>Dashboard do Cliente</h1>
-
+  <div>
+    <p>arroz</p>
+  </div>
 </template>
+
+<script>
+
+</script>

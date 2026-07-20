@@ -1,5 +1,9 @@
 <template>
-
-<h1>Pagamento</h1>
-
+  <div>
+    <p>arroz</p>
+  </div>
 </template>
+
+<script>
+
+</script>

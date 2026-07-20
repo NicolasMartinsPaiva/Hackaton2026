@@ -1,5 +1,9 @@
 <template>
-
-<h1>Perfil do Freelancer</h1>
-
+  <div>
+    <p>arroz</p>
+  </div>
 </template>
+
+<script>
+
+</script>

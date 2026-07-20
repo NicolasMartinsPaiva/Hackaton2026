@@ -1,14 +1,13 @@
-<script setup>
-
-import Navbar from './components/Navbar.vue'
-import Footer from './components/Footer.vue'
-
-</script><template>
-
-<Navbar/>
-
-<router-view/>
-
-<Footer/>
-
+<template>
+  <h1>oi</h1>
 </template>
+
+<script>
+
+</script>
+
+<style>
+ h1{
+  color: green;
+ }
+</style>
